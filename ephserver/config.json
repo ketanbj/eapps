@@ -1,0 +1,8 @@
+{
+	"crepo": "/irobdata/Ephemeral-Apps/apps/",
+	"xrepo": "/irobdata/Ephemeral-Apps/ephserver/xrepo/",
+	"appconfig": "/irobdata/Ephemeral-Apps/ephserver/appconfig/",
+	"debug": true,
+	"verbose": true,
+	"port": 3000
+}

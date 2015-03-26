@@ -1,0 +1,9 @@
+{
+	"crepo": "/irobdata/pyephserver/crepo/",
+	"xrepo": "/irobdata/pyephserver/xrepo/",
+	"appconfig": "/irobdata/pyephserver/appconfig/",
+	"aaptpath": "/repo/android-sdk-linux/build-tools/21.1.1/",
+	"debug": true,
+	"verbose": true,
+	"port": 4000
+}

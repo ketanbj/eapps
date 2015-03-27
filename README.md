@@ -18,19 +18,18 @@ This Repository is organized as follows
 --------------------------------------------
 ########
 <pre>
-<b> android cloudlet</b>
+<b>eapps</b>
   ├── Changes/Addition to Android Lollipop AOSP v5.0.3 required to support app streaming and app ephemerality in android.
   │   Contains only the changed files which can be used to compile your own wandroid. For compiling android please refer: <a href: https://source.android.com/source/building.html="_blank"</a> Compiling android.
   │ 
   ├── <b>pyephserver</b>
   │     ├─ Ephemeral app server implemented using python
-  │     ├─ Ephemeral app server implemented using node.js
+  ├─ <b>ephserver</b> 
+  │		├─Ephemeral app server implemented using node.js
   │
 ..
 </pre> 
 
 License
 ---------
-The MIT License (MIT)
-
-Copyright (c) <2015> <Ketan Bhardwaj>
+Refer LICENSE.md

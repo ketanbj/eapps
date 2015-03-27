@@ -22,8 +22,9 @@ Repository organization
 ########
 <pre>
 <b>eapps</b>
-  ├── Changes/Addition to Android Lollipop AOSP v5.0.3 required to support app streaming and app ephemerality in android.
-  │   Contains only the changed files which can be used to compile your own wandroid. For compiling android please refer: <a href: https://source.android.com/source/building.html="_blank"</a> Compiling android.
+  ├── <b>android</b>
+  │		├─ Changes/Addition to Android Lollipop AOSP v5.0.3 required to support app streaming and app ephemerality in android.
+  │        Contains only the changed files which can be used to compile your own wandroid. For compiling android please refer: <a href: https://source.android.com/source/building.html="_blank"</a> Compiling android.
   │ 
   ├── <b>pyephserver</b>
   │     ├─ Ephemeral app server implemented using python

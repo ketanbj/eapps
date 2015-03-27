@@ -9,13 +9,17 @@ features and provide similar security guarantees as the native
 apps installed on end user devices.
 
 The two component that make ephemeral apps possible are:
-- 'Wandroid': Enhanced Android with support for app streaming and app ephemerality.
-- 'Ephemeral app server': A two phased app streaming server to decouple of apps from devices.
+- **Wandroid**: Enhanced Android with support for app streaming and app ephemerality.
+- **Ephemeral app server**: A two phased app streaming server to decouple of apps from devices.
 
 Demo
 ------
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ggEDYt9Wdsw/0.jpg)](http://www.youtube.com/watch?v=ggEDYt9Wdsw)
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Repository organization
 --------------------------------------------
@@ -23,8 +27,10 @@ Repository organization
 <pre>
 <b>eapps</b>
   ├── <b>android</b>
-  │		├─ Changes/Addition to Android Lollipop AOSP v5.0.3 required to support app streaming and app ephemerality in android.
-  │        Contains only the changed files which can be used to compile your own wandroid. For compiling android please refer: <a href: https://source.android.com/source/building.html="_blank"</a> Compiling android.
+  │		├─ Changes/Addition to Android Lollipop AOSP v5.0.3 required to support 
+  │     │  app streaming and app ephemerality in android.
+  │     │  Contains only the changed files which can be used to compile your own 
+  │     │  Wandroid. For compiling android please refer: <a href: https://source.android.com/source/building.html="_blank"</a> Compiling android.
   │ 
   ├── <b>pyephserver</b>
   │     ├─ Ephemeral app server implemented using python

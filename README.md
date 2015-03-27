@@ -15,8 +15,9 @@ The two component that make ephemeral apps possible are:
 Demo
 ------
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ggEDYt9Wdsw/0.jpg)](http://www.youtube.com/watch?v=ggEDYt9Wdsw)
-This Repository is organized as follows
 
+
+Repository organization
 --------------------------------------------
 ########
 <pre>

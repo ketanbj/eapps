@@ -8,13 +8,15 @@ in the same fashion and are able to seamlessly access device
 features and provide similar security guarantees as the native
 apps installed on end user devices.
 
-The two component which make ephemeral apps possible are:
+The two component that make ephemeral apps possible are:
+- 'Wandroid': Enhanced Android with support for app streaming and app ephemerality.
+- 'Ephemeral app server': A two phased app streaming server to decouple of apps from devices.
 
-- 'Wandroid': A Mobile OS built on top of Android with support for app streaming and app ephemerality.
-
-- 'Ephemeral app server': An app streaming server that makes possible decoupling of apps from devices.
-
+Demo
+------
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ggEDYt9Wdsw/0.jpg)](http://www.youtube.com/watch?v=ggEDYt9Wdsw)
 This Repository is organized as follows
+
 --------------------------------------------
 ########
 <pre>
@@ -29,6 +31,7 @@ This Repository is organized as follows
   │
 ..
 </pre> 
+
 
 License
 ---------
